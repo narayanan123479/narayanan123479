@@ -131,19 +131,18 @@ DOMAIN  → Linux / Security
 
 ---
 
-## `> arsenal`
+## `## `> arsenal`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,java,js,nextjs,linux,kali,git,github" alt="Skills">
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github" alt="Skills">
 
 <br><br>
 
-`PYTHON` · `BASH` · `JAVA` · `JAVASCRIPT` · `NEXT.JS`
-
-`LINUX` · `KALI` · `GIT` · `GITHUB`
+`PYTHON` · `BASH` · `LINUX` · `KALI LINUX` · `GIT` · `GITHUB`
 
 </div>
+
 
 ---
 
