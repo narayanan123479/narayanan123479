@@ -1,99 +1,129 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Narayanan — Cybersecurity & Development">
+<img src="./assets/banner.png" width="100%" alt="Narayanan">
 
 <br><br>
 
 # `NARAYANAN`
 
-### `Cybersecurity • Linux • CTFs • Open Source`
+### `CYBERSECURITY × LINUX × BUILDING`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+Cybersecurity;Breaking+Things+in+Labs;Building+Useful+Tools;Exploring+Linux+%26+Networking" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=%24+whoami;Computer+Science+Student;Cybersecurity+Learner;CTF+Enthusiast;Building+%26+Breaking+Things" alt="Typing introduction">
 
 <br>
 
-`[ ABOUT ]` · `[ PROJECTS ]` · `[ STACK ]` · `[ STATS ]` · `[ CONTACT ]`
+[ `ABOUT` ](#about) ·
+[ `PROJECTS` ](#projects) ·
+[ `ARSENAL` ](#arsenal) ·
+[ `LAB` ](#lab) ·
+[ `STATS` ](#stats)
 
 </div>
 
 ---
 
-## `01` — ABOUT
-
-> **Computer Science student exploring cybersecurity through hands-on learning, CTFs, Linux, networking and practical projects.**
-
-I prefer learning by **building, experimenting and solving problems** rather than only studying theory.
+## `> whoami`
 
 ```text
-FOCUS
-├── Cybersecurity
-├── Linux & Networking
-├── CTFs & Security Labs
-├── Python & Bash
-└── Open Source
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  USER        :  Narayanan                                    │
+│  ROLE        :  Computer Science Student                     │
+│  INTERESTS   :  Cybersecurity / Linux / Networking / CTFs   │
+│  BUILDING    :  Security Tools & Open Source Projects       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
+
+> I learn by **building things, breaking things, and understanding why they break.**
 
 ---
 
-## `02` — PROJECTS
+## `> about`
+
+```text
+CYBERSECURITY
+████████████████████████████░░
+
+LINUX
+████████████████████████░░░░
+
+NETWORKING
+██████████████████████░░░░░░
+
+PROGRAMMING
+████████████████████████░░░░
+```
+
+Currently exploring:
+
+`Cybersecurity` `Linux` `Networking` `CTFs` `Python` `Bash` `Open Source`
+
+---
+
+## `> projects`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔐 Phishing Detector
+### 🔐 `PHISHING-DETECTOR`
 
-A tool for analysing potentially malicious phishing URLs.
+Detect and analyse potentially malicious URLs.
 
-**`Python` · `Security` · `Detection`**
+```text
+TYPE    → Security Tool
+DOMAIN  → Phishing Detection
+```
 
-<a href="https://github.com/narayanan123479/phishing-detector">
-View Repository →
-</a>
+**[ ↗ EXPLORE ](https://github.com/narayanan123479/phishing-detector)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧩 Employee Leak CTF
+### 🧩 `EMPLOYEE-LEAK-CTF`
 
-A security-focused CTF challenge built around investigating an employee data leak.
+A security challenge built around investigating an employee data leak.
 
-**`CTF` · `Cybersecurity` · `Investigation`**
+```text
+TYPE    → CTF
+DOMAIN  → Security Investigation
+```
 
-<a href="https://github.com/narayanan123479/employee-leak-CTF">
-View Repository →
-</a>
+**[ ↗ EXPLORE ](https://github.com/narayanan123479/employee-leak-CTF)**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⌨️ New MacroPad
+### ⌨️ `NEWMACROPAD`
 
-A custom programmable macro pad project combining hardware and software.
+A custom programmable macro pad project.
 
-**`Hardware` · `Programming`**
+```text
+TYPE    → Hardware
+DOMAIN  → Embedded / Automation
+```
 
-<a href="https://github.com/narayanan123479/newmacropad">
-View Repository →
-</a>
+**[ ↗ EXPLORE ](https://github.com/narayanan123479/newmacropad)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔑 Password Generator
+### 🔑 `PASSWORD-GENERATOR`
 
-A lightweight password generation tool.
+A lightweight password generation utility.
 
-**`Bash` · `Linux` · `Security`**
+```text
+TYPE    → Utility
+DOMAIN  → Linux / Security
+```
 
-<a href="https://github.com/narayanan123479/password-generator">
-View Repository →
-</a>
+**[ ↗ EXPLORE ](https://github.com/narayanan123479/password-generator)**
 
 </td>
 </tr>
@@ -101,79 +131,111 @@ View Repository →
 
 ---
 
-## `03` — STACK
+## `> arsenal`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,java,js,nextjs,linux,kali,git,github" alt="Technology Stack">
+<img src="https://skillicons.dev/icons?i=python,bash,java,js,nextjs,linux,kali,git,github" alt="Skills">
 
-</div>
+<br><br>
 
-<br>
+`PYTHON` · `BASH` · `JAVA` · `JAVASCRIPT` · `NEXT.JS`
 
-<div align="center">
-
-`Python` · `Bash` · `Java` · `JavaScript` · `Next.js`
-`Linux` · `Kali Linux` · `Git` · `GitHub`
+`LINUX` · `KALI` · `GIT` · `GITHUB`
 
 </div>
 
 ---
 
-## `04` — CYBERSPACE
+## `> lab`
+
+### 🧪 TryHackMe
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/NARAYANAN">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/NARAYANAN.png" alt="TryHackMe Profile">
+<img src="https://tryhackme-badges.s3.amazonaws.com/NARAYANAN.png" alt="TryHackMe">
 
 </a>
 
-<br><br>
+<br>
 
-**Learning → Practicing → Breaking → Building**
+`LEARN` → `PRACTICE` → `BREAK` → `UNDERSTAND`
 
 </div>
 
 ---
 
-## `05` — GITHUB STATS
+<details>
+<summary><b>⚡ Click to open — Current Focus</b></summary>
+
+<br>
+
+```text
+[01] Linux & System Administration
+[02] Networking Fundamentals
+[03] Cybersecurity Concepts
+[04] CTF Problem Solving
+[05] Security Tool Development
+[06] Open Source Projects
+```
+
+</details>
+
+<details>
+<summary><b>🛠️ Click to open — What I'm Building</b></summary>
+
+<br>
+
+I enjoy projects that are:
+
+* Useful beyond a resume
+* Practical to learn from
+* Open-source friendly
+* Security-focused
+* Built to be experimented with
+
+</details>
+
+---
+
+## `> stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=narayanan123479&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" height="175">
+<img src="https://github-readme-stats.vercel.app/api?username=narayanan123479&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan123479&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="175">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan123479&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="170">
 
 </div>
 
 ---
 
-## `06` — CONTRIBUTIONS
+## `> activity`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/narayanan123479/narayanan123479/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/narayanan123479/narayanan123479/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake">
 
 </div>
 
 ---
 
-## `07` — CONNECT
+## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/narayanan123479">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://tryhackme.com/p/NARAYANAN">
-<img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=red">
+<img src="https://img.shields.io/badge/TRYHACKME-0D1117?style=for-the-badge&logo=tryhackme&logoColor=red">
 </a>
 
 <a href="https://www.threads.com/@narayanan8623">
-<img src="https://img.shields.io/badge/Threads-0D1117?style=for-the-badge&logo=threads&logoColor=white">
+<img src="https://img.shields.io/badge/THREADS-0D1117?style=for-the-badge&logo=threads&logoColor=white">
 </a>
 
 </div>
@@ -183,11 +245,13 @@ View Repository →
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────┐
-│  BUILD  •  BREAK  •  LEARN  •  REPEAT  │
-└─────────────────────────────────────────┘
+╭──────────────────────────────────────────╮
+│                                          │
+│   BUILD  →  BREAK  →  LEARN  →  REPEAT  │
+│                                          │
+╰──────────────────────────────────────────╯
 ```
 
-<sub>Thanks for visiting my profile.</sub>
+<sub>Thanks for visiting.</sub>
 
 </div>
