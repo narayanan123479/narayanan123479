@@ -120,29 +120,6 @@ A simple password-generation utility.
 
 **Learn → Practice → Understand → Build**
 
-</div>
-
----
-
-## `05` // GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=narayanan123479&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub Stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan123479&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most Used Languages">
-
-</div>
-
----
-
-## `06` // Currently Exploring
-
-<div align="center">
-
-`CYBERSECURITY` &nbsp; · &nbsp; `LINUX` &nbsp; · &nbsp; `NETWORKING`
-
-</div>
 
 ---
 
