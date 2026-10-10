@@ -1,63 +1,155 @@
+
 <div align="center">
 
-# `narayanan123479`
+# `NARAYANAN`
 
-**Learning security. Building things. Exploring Linux.**
+### CYBERSECURITY · LINUX · OPEN SOURCE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=8B5CF6&center=true&vCenter=true&width=450&lines=Cybersecurity+Learner;Linux+Enthusiast;Building+through+Practice" alt="Introduction">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Cybersecurity+Learner;Exploring+Linux+%26+Networking;Building+Practical+Projects;Learning+By+Doing" alt="Typing SVG">
 
-[GitHub](https://github.com/narayanan123479) · [TryHackMe](https://tryhackme.com/p/NARAYANAN) · [Threads](https://www.threads.com/@narayanan8623)
+<br>
+
+<a href="https://github.com/narayanan123479">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://tryhackme.com/p/NARAYANAN">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe">
+</a>
+<a href="https://www.threads.com/@narayanan8623">
+<img src="https://img.shields.io/badge/Threads-181717?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+</a>
+
+<br><br>
+
+[ ABOUT ](#about) · [ PROJECTS ](#projects) · [ TOOLKIT ](#toolkit) · [ STATS ](#stats)
 
 </div>
 
 ---
 
-### `$ whoami`
+## `01` // About
 
-Computer Science student exploring **cybersecurity, Linux, networking and open source**.
+Hey! I'm a Computer Science student exploring **cybersecurity, Linux, networking, and open source**.
 
-I learn by experimenting, solving challenges, and building practical projects.
+I enjoy experimenting with technology, solving challenges, and building practical projects while learning new things.
 
-### `$ projects`
+<details>
+<summary><b>More about me ↗</b></summary>
 
-| Project | What it does |
-|:--|:--|
-| [🔐 Phishing Detector](https://github.com/narayanan123479/phishing-detector) | Phishing URL analysis |
-| [🧩 Employee Leak CTF](https://github.com/narayanan123479/employee-leak-CTF) | Security challenge |
-| [⌨️ New MacroPad](https://github.com/narayanan123479/newmacropad) | Custom macro pad |
-| [🔑 Password Generator](https://github.com/narayanan123479/password-generator) | Password generation tool |
+<br>
 
-### `$ toolkit`
+- Exploring cybersecurity concepts and security labs.
+- Learning Linux and command-line tools.
+- Building projects to improve my practical skills.
+- Interested in open-source collaboration.
+
+</details>
+
+---
+
+## `02` // Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Phishing Detector
+
+A project for analysing potentially malicious phishing URLs.
+
+<a href="https://github.com/narayanan123479/phishing-detector">↗ View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Employee Leak CTF
+
+A cybersecurity challenge project focused on investigating an employee data leak.
+
+<a href="https://github.com/narayanan123479/employee-leak-CTF">↗ View Repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ New MacroPad
+
+A custom macro pad project combining hardware and software.
+
+<a href="https://github.com/narayanan123479/newmacropad">↗ View Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔑 Password Generator
+
+A simple password-generation utility.
+
+<a href="https://github.com/narayanan123479/password-generator">↗ View Repository</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` // Toolkit
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,bash,linux,kali,git,github" alt="Python, Bash, Linux, Kali Linux, Git and GitHub">
 
-</div>
+<br><br>
 
-### `$ activity`
-
-<div align="center">
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=narayanan123479&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=3B82F6&text_color=9CA3AF" alt="GitHub Stats">
+`PYTHON` · `BASH` · `LINUX` · `KALI LINUX` · `GIT` · `GITHUB`
 
 </div>
 
-<details>
-<summary><b>🧪 Enter my lab</b></summary>
+---
 
-<br>
-
-Explore my security learning journey on [TryHackMe](https://tryhackme.com/p/NARAYANAN).
-
-</details>
+## `04` // Security Lab
 
 <div align="center">
 
+<a href="https://tryhackme.com/p/NARAYANAN">
+<img src="https://tryhackme-badges.s3.amazonaws.com/NARAYANAN.png" alt="TryHackMe Profile Badge">
+</a>
+
 <br>
 
-`learn()` → `build()` → `repeat()`
+**Learn → Practice → Understand → Build**
 
-<sub>Still learning. Always building.</sub>
+</div>
+
+---
+
+## `05` // GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=narayanan123479&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub Stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanan123479&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most Used Languages">
+
+</div>
+
+---
+
+## `06` // Currently Exploring
+
+<div align="center">
+
+`CYBERSECURITY` &nbsp; · &nbsp; `LINUX` &nbsp; · &nbsp; `NETWORKING`
+
+</div>
+
+---
+
+<div align="center">
+
+### `LEARN. BUILD. REPEAT.`
+
+<sub>Learning in public. Building with purpose.</sub>
 
 </div>
